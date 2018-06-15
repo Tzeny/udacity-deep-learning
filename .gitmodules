@@ -1,0 +1,3 @@
+[submodule "convnet_drawer"]
+	path = convnet_drawer
+	url = https://github.com/yu4u/convnet-drawer
